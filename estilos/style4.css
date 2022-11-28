@@ -1,0 +1,21 @@
+*{
+	margin:0;
+}
+h1{
+	color:blue;
+}
+header{
+	background-color:lightblue;
+}
+section{
+	background-color:lightblue;
+	color:blue;
+}
+nav{
+	background-color:lightblue;
+	color:blue;
+}
+aside{
+	background-color:lightblue;
+	
+}

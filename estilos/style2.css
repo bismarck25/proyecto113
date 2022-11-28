@@ -1,0 +1,28 @@
+*{
+	margin:0;
+}
+header{
+	background-color:red;
+	width: 100%;
+	color:blue;
+}
+h2{
+	background-color:blue;
+	width: 100%;
+}
+h3{
+	background-color:blue;
+	width: 100%;
+}
+section{
+	background-color:red;
+	width: 100%;
+}
+nav{
+	background-color:red;
+	width: 100%;
+}
+aside{
+	background-color:blue;
+	width: 100%;
+}
